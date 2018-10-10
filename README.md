@@ -1,2 +1,12 @@
-# hans-s-odd-crafts
-My random projects
+# Hans' Random Projects
+Clone any files you want. Totally free. 
+
+**To run python files in Windows:** download the installer here: https://www.python.org/downloads/windows/, then run python files by opening command prompt and typing:
+```
+python (filename)
+```
+**To run on linux or MacOS:** install [HomeBrew](https://brew.sh/) then run:
+```
+brew install python3
+```
+**Enjoy**
