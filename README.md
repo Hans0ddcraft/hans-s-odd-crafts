@@ -9,4 +9,6 @@ python (filename)
 ```
 brew install python3
 ```
+(Python is normally already installed on Linux, check by typing:<code>$ python --version</code>)
+
 **Enjoy**
