@@ -9,6 +9,10 @@ python (filename)
 ```
 brew install python3
 ```
+You should be able to run files simply by typing:
+```
+python (filename)
+```
 (Python is normally already installed on Linux, check by typing:<code>$ python --version</code>)
 
 **Enjoy**
