@@ -15,4 +15,6 @@ python (filename)
 ```
 (Python is normally already installed on Linux, check by typing:<code> python --version</code>)
 
+If the program comes with a .bat file, after you install python simply double click the .bat file.
+
 **Enjoy**
