@@ -12,7 +12,9 @@ def count_primes(num):
         if l == []:
             x += 1
             list_2.append(t)
+    print('Number of Prime Numbers leading up to your number:')
     print(x)
+    print('The Prime Numbers leading up to your number:')
     print(list_2)        
 
 count_primes(int(input('Your number here: ')))
