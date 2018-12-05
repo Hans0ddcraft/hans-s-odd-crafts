@@ -17,4 +17,6 @@ python (filename)
 
 If the program comes with a .bat file, after you install python simply double click the .bat file to run it in Command Prompt if you are on Windows.
 
+Be sure to check out the Wiki for more information about each file.
+
 **Enjoy**
