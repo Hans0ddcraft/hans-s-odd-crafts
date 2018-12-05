@@ -5,7 +5,7 @@ Clone any files you want. Totally free.
 ```
 python (filename)
 ```
-**To run on linux or MacOS:** install [HomeBrew](https://brew.sh/) then run:
+**To run on Linux or MacOS:** install [HomeBrew](https://brew.sh/) then run:
 ```
 brew install python3
 ```
