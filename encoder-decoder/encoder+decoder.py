@@ -13,7 +13,7 @@ while True:
     mode = input('Select which mode you want:[decode or encode] ').lower()
     #Encode
     if mode == 'encode':
-        this = input('Enter a string to be encoded.').lower()
+        this = input('Enter a string to be encoded. ').lower()
         for i in this:
             if i in al and (i != 'y' and i != 'z'):
                 output.append(al[al.index(i)+2])
@@ -31,12 +31,12 @@ while True:
                 output.append(i)
         output= ''.join(output)
         print(output)
-        yes = input('Do you wish to run the program again?').lower()
+        yes = input('Do you wish to run the program again? ').lower()
         if yes != 'yes':
             break
     #Decode
     elif mode == 'decode':
-        this = input('Enter a string to be decoded.').lower()
+        this = input('Enter a string to be decoded. ').lower()
         for i in this:
             if i in al and (i != 'y' and i != 'z'):
                 output.append(al[al.index(i)-2])
